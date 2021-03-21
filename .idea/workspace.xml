@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d0f4843-eb7b-474b-933b-f2259a4b6baa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dB5EFOr5XTE9s9UK9KaiMccOZp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/zad1" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Client" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad1.Client" />
+      <module name="TPO7_KD_S18714" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad1.Main" />
+      <module name="TPO7_KD_S18714" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Receiver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad1.Receiver" />
+      <module name="TPO7_KD_S18714" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Receiver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad1.Receiver" />
+      <module name="TPO7_KD_S18714" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sender" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad1.Sender" />
+      <module name="TPO7_KD_S18714" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad1.Test" />
+      <module name="TPO7_KD_S18714" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Sender" />
+        <item itemvalue="Application.Receiver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d0f4843-eb7b-474b-933b-f2259a4b6baa" name="Default Changelist" comment="" />
+      <created>1591885531710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591885531710</updated>
+      <workItem from="1591885533909" duration="7000" />
+      <workItem from="1591885597751" duration="14755000" />
+      <workItem from="1591908043102" duration="3788000" />
+      <workItem from="1591950250620" duration="1052000" />
+      <workItem from="1591955315161" duration="1492000" />
+      <workItem from="1593862897401" duration="417000" />
+      <workItem from="1616335190148" duration="597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591907164277">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591907164277" />
+    <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1591908094179">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1591908094179" />
+    <state x="377" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591910097433">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="377" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591910097433" />
+    <state width="1638" height="321" key="GridCell.Tab.0.bottom" timestamp="1593863444374">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="321" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1593863444374" />
+    <state width="1638" height="321" key="GridCell.Tab.0.bottom/0.23.1680.936@0.23.1680.936" timestamp="1591904748221" />
+    <state width="1638" height="321" key="GridCell.Tab.0.bottom/0.23.1680.945@0.23.1680.945" timestamp="1591903366347" />
+    <state width="1638" height="321" key="GridCell.Tab.0.center" timestamp="1593863444373">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="321" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1593863444373" />
+    <state width="1638" height="321" key="GridCell.Tab.0.center/0.23.1680.936@0.23.1680.936" timestamp="1591904747403" />
+    <state width="1638" height="321" key="GridCell.Tab.0.center/0.23.1680.945@0.23.1680.945" timestamp="1591903366344" />
+    <state width="1638" height="321" key="GridCell.Tab.0.left" timestamp="1593863444372">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="321" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1593863444372" />
+    <state width="1638" height="321" key="GridCell.Tab.0.left/0.23.1680.936@0.23.1680.936" timestamp="1591904746782" />
+    <state width="1638" height="321" key="GridCell.Tab.0.left/0.23.1680.945@0.23.1680.945" timestamp="1591903366343" />
+    <state width="1638" height="321" key="GridCell.Tab.0.right" timestamp="1593863444373">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="321" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1593863444373" />
+    <state width="1638" height="321" key="GridCell.Tab.0.right/0.23.1680.936@0.23.1680.936" timestamp="1591904747851" />
+    <state width="1638" height="321" key="GridCell.Tab.0.right/0.23.1680.945@0.23.1680.945" timestamp="1591903366346" />
+    <state width="1638" height="364" key="GridCell.Tab.1.bottom" timestamp="1591956810875">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591956810875" />
+    <state width="1638" height="364" key="GridCell.Tab.1.bottom/0.23.1680.939@0.23.1680.939" timestamp="1591911794809" />
+    <state width="1638" height="364" key="GridCell.Tab.1.center" timestamp="1591956810874">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591956810874" />
+    <state width="1638" height="364" key="GridCell.Tab.1.center/0.23.1680.939@0.23.1680.939" timestamp="1591911794808" />
+    <state width="1638" height="364" key="GridCell.Tab.1.left" timestamp="1591956810874">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591956810874" />
+    <state width="1638" height="364" key="GridCell.Tab.1.left/0.23.1680.939@0.23.1680.939" timestamp="1591911794803" />
+    <state width="1638" height="364" key="GridCell.Tab.1.right" timestamp="1591956810874">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591956810874" />
+    <state width="1638" height="364" key="GridCell.Tab.1.right/0.23.1680.939@0.23.1680.939" timestamp="1591911794808" />
+    <state x="328" y="106" key="SettingsEditor" timestamp="1591886869781">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="328" y="106" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1591886869781" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1591906770690">
+      <screen x="0" y="23" width="1680" height="945" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.23.1680.945@0.23.1680.945" timestamp="1591906770690" />
+  </component>
+</project>
